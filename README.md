@@ -1,3 +1,6 @@
+<!-- repo-card -->
+![quotecraft](docs/assets/social-card.png)
+
 # QuoteCraft
 
 A price quotation tool built with Laravel and Vue.js. QuoteCraft provides a multi-step form interface for collecting business requirements and generating pricing quotes, with automated email delivery.
